@@ -1,2 +1,2 @@
 # circular-linked-list-operations
-this code contains reverse traverse search sort operations in circular linked list
+this code explains the  operations in circular linked list in c
